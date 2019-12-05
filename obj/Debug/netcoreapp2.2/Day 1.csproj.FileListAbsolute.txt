@@ -1,0 +1,11 @@
+/home/edmayen/Advent of Code 2019/Day 1/bin/Debug/netcoreapp2.2/Day 1.deps.json
+/home/edmayen/Advent of Code 2019/Day 1/bin/Debug/netcoreapp2.2/Day 1.runtimeconfig.json
+/home/edmayen/Advent of Code 2019/Day 1/bin/Debug/netcoreapp2.2/Day 1.runtimeconfig.dev.json
+/home/edmayen/Advent of Code 2019/Day 1/bin/Debug/netcoreapp2.2/Day 1.dll
+/home/edmayen/Advent of Code 2019/Day 1/bin/Debug/netcoreapp2.2/Day 1.pdb
+/home/edmayen/Advent of Code 2019/Day 1/obj/Debug/netcoreapp2.2/Day 1.csprojAssemblyReference.cache
+/home/edmayen/Advent of Code 2019/Day 1/obj/Debug/netcoreapp2.2/Day 1.csproj.CoreCompileInputs.cache
+/home/edmayen/Advent of Code 2019/Day 1/obj/Debug/netcoreapp2.2/Day 1.AssemblyInfoInputs.cache
+/home/edmayen/Advent of Code 2019/Day 1/obj/Debug/netcoreapp2.2/Day 1.AssemblyInfo.cs
+/home/edmayen/Advent of Code 2019/Day 1/obj/Debug/netcoreapp2.2/Day 1.dll
+/home/edmayen/Advent of Code 2019/Day 1/obj/Debug/netcoreapp2.2/Day 1.pdb
