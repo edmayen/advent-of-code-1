@@ -45,11 +45,25 @@ namespace Day_1
         {
             double div;
             double round;
-            double fuel;
-            div = (mass / 3);
-            round = Math.Floor(div);
-            fuel = round - 2;
-            return fuel;
+            double fuel = 0;
+            double totalFuel = 0;
+            if(mass <= 6)
+            {
+                fuel = 0;
+            }
+            else
+            if(mass > 6)
+            {
+                do
+                {
+                    div = (mass / 3);
+                    round = Math.Floor(div);
+                    fuel = round - 2;
+                    totalFuel = totalFuel + fuel;
+                    mass = fuel;
+                }while(fuel > 6);
+            }
+            return totalFuel;
         }
     }
 }
